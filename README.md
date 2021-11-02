@@ -25,8 +25,8 @@ Requirements to host a static resume are:
     * GitHub won't let the user pick duplicate names.
   * Set the repository to *Public* or *Private*.
     * *Public* is preferred to host a resume visible by everyone.
-  * Select *Create Repository* to finalize.
-  ![](
+  * Select *Create Repository* to finalize.\
+  ![alt text](New repository.png)
   
 
 # Authors and Acknowledgements
