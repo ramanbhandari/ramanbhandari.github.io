@@ -61,6 +61,7 @@ Worked with C++ to construct working algorithms for problems not solvable by han
 * Processing
 * HTML
 * CSS
+* Javascript
 
 # **Achievements**
 * Undergraduate Student Research Award (USRA)
