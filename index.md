@@ -1,29 +1,23 @@
 # Raman Bhandari
 
 ### Contact Information:
-
-bhandar1@myumanitoba.ca
-
+bhandar1@myumanitoba.ca \
 +1 204(869)8505
 
 ### Address:
 
-10 Lake Island Crescent
-
-Winnipeg, Manitoba
-
+10 Lake Island Crescent \
+Winnipeg, Manitoba \
 R3T4P6
 
 
 Education
 ---------
 
-2019-present (Anticipated graduation - 2024)
 
-**Bachelors of Science-Computer Science Honours(Co-op)**
-
-*Minor: Mathematics*
-
+**Bachelors of Science-Computer Science Honours(Co-op)** \
+2019-2024 (Anticipated) \
+*Minor: Mathematics* \
 University of Manitoba
 
 
@@ -31,8 +25,7 @@ Work Experience
 ----------
 ### Non-Technical
 
-* #### **Student Office Assistant**
-
+* #### **Student Office Assistant** 
 Extended Education, University of Manitoba
 
 Short text containing the type of work done, results obtained,
@@ -42,17 +35,14 @@ First item
 Item with [link](http://www.example.com). Links will work both in
   the html and pdf versions.
   
-* #### **Banquet Server**
-
-Manitoba Club
-
+* #### **Banquet Server** 
+Manitoba Club \
 Also with a short description.
 
 ### Technical
 
-* **Research Assistant (USRA)**
-
-Department of Mathematics, University of Manitoba
+* **Research Assistant (USRA)** 
+Department of Mathematics, University of Manitoba 
 
 ## Projects
 
