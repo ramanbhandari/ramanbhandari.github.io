@@ -56,7 +56,7 @@ Department of Mathematics, University of Manitoba
 
 ## Projects
 
-My Cool Side Project
+My Cool Side Projec
 :   For items which don't have a clear time ordering, a definition
     list can be used to have named items.
     * These items can also contain lists, but you need to mind the
