@@ -1,9 +1,8 @@
-Johnny Coder
+Raman Bhandari
 ============
 -------------------     ----------------------------
-1 MyAddress                        email@example.com
-MyTown 1000                          @twitter_handle
-MyCountry                           1800 my-phone-nr
+bhandar1@myumanitoba.ca
++1 204(869)8505
 -------------------     ----------------------------
 Education
 ---------
