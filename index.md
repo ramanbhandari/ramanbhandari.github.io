@@ -32,8 +32,7 @@ Work Experience
 ##### **Tasks:**
   1. Flex registrations/applications and International applications 
   2. Processing payments and refunds, working with admin aurora 
-  3. Answering email and phone queries 
-  
+  3. Answering email and phone queries \
 *Contact: Michelle Romuld \
          Michelle.Romuld@umanitoba.ca \
          Coordinator, Student Services*
