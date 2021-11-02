@@ -26,3 +26,10 @@ This is made possible by the contribution of COMP 3040 course at University of M
 
 
 # FAQs
+1. Why is Markdown better than a word processor?
+2. Why is my resume not showing up?
+
+
+![Alt Text](Done.gif) 
+## **References**
+* GIF 'Done.gif' taken from https://tenor.com/search/finished-gifs
