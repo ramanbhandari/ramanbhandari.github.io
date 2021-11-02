@@ -53,12 +53,6 @@ University of Manitoba
 Professor Kirill Kopotun* \
 Worked with C++ to construct working algorithms for problems not solvable by hand in Mathematics.
 
-# **Volunteer Experience**
-* University of Manitoba-Welcome Mentor Program
-  * September 2020 - April 2021
-* UMSU Volunteer
-  * February 2021 - present
-
 # **Strengths**
 * Java
 * C++
@@ -75,12 +69,20 @@ Worked with C++ to construct working algorithms for problems not solvable by han
 * International Undergraduate Student Scholarship
   * Fall 2021
   * Award value: $1000
-
+  
 # **Projects**
 * Portfolio Website
   * February 2021
   * Implemented a static website using HTML, CSS and Javascript through online tutorials
   * [Click here to view](http://home.cc.umanitoba.ca/~bhandar1/)
+  
+# **Volunteer Experience**
+* University of Manitoba-Welcome Mentor Program
+  * September 2020 - April 2021
+* UMSU Volunteer
+  * February 2021 - present
+
+
 
 # **Languages**
 * English
