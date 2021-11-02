@@ -44,7 +44,7 @@ Also with a short description.
 
 ### Technical
 
-* **Research Assistant (USRA)** 
+* #### **Research Assistant (USRA)** 
 Department of Mathematics, University of Manitoba 
 
 ## Projects
