@@ -66,6 +66,7 @@ Worked with C++ to construct working algorithms for problems not solvable by han
   * Summer 2021
   * Award value: $7000
 * International Undergraduate Student Scholarship
+  * Fall 2021
   * Award value: $1000
 
 ## Projects
