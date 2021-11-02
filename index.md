@@ -30,9 +30,9 @@ Work Experience
 *Designated Area - Student and Instructor Services (SIS)* \
 *Full time: May 2021-August 2021, Part-time: September 2021 - present* \
 **Tasks:**
-* Flex registrations/applications and International applications
-* Processing payments and refunds, working with admin aurora
-* Answering email and phone queries 
+  * Flex registrations/applications and International applications
+  * Processing payments and refunds, working with admin aurora
+  * Answering email and phone queries 
 
 Contact: Michelle Romuld \
          Michelle.Romuld@umanitoba.ca \
