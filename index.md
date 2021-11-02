@@ -1,26 +1,61 @@
-Raman Bhandari
-============
+# Raman Bhandari
+
+### Contact Information:
+
 bhandar1@myumanitoba.ca
+
 +1 204(869)8505
+
+### Address:
+
+10 Lake Island Crescent
+
+Winnipeg, Manitoba
+
+R3T4P6
+
 
 Education
 ---------
-2019-2024 (anticipated graduation)
-:   **BSc, Computer Science Honours - Co-op**; University of Manitoba
-    *Minor: Mathematics*
+
+2019-present (Anticipated graduation - 2024)
+
+**Bachelors of Science-Computer Science Honours(Co-op)**
+
+*Minor: Mathematics*
+
+University of Manitoba
+
+
 Work Experience
 ----------
-**Your Most Recent Work Experience:**
+## Non-Technical
+
+#### **Student Office Assistant**
+
+Extended Education, University of Manitoba
+
 Short text containing the type of work done, results obtained,
 lessons learned and other remarks. Can also include lists and
 links:
 * First item
 * Item with [link](http://www.example.com). Links will work both in
   the html and pdf versions.
-**That Other Job You Had**
+  
+#### **Banquet Server**
+
+Manitoba Club
+
 Also with a short description.
-Technical Experience
---------------------
+
+## Technical
+
+Research Assistant (USRA)
+
+Department of Mathematics, University of Manitoba
+
+## Projects
+
 My Cool Side Project
 :   For items which don't have a clear time ordering, a definition
     list can be used to have named items.
