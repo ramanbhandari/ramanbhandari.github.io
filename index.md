@@ -26,15 +26,18 @@ Work Experience
 ### Non-Technical
 
 * #### **Student Office Assistant** 
-Extended Education, University of Manitoba
+Extended Education, University of Manitoba \
+Designated Area - Student and Instructor Services (SIS) \
+Full time: May 2021-August 2021, Part-time: September 2021 - present \
+Tasks:
+* Flex registrations/applications and International applications
+* Processing payments and refunds, working with admin aurora
+* Answering email and phone queries 
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
-First item
-Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
-  
+Contact: Michelle Romuld \
+         Michelle.Romuld@umanitoba.ca \
+         Coordinator, Student Services
+
 * #### **Banquet Server** 
 Manitoba Club \
 Also with a short description.
