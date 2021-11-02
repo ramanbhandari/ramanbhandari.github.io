@@ -52,7 +52,11 @@ Work Experience
 ### Technical
 
 * #### **Research Assistant (USRA)** 
-Department of Mathematics, University of Manitoba 
+*Department of Mathematics, University of Manitoba \
+Professor Kirill Kopotun*
+
+Worked with C++ to construct working algorithms for problems not solvable by hand in Mathematics.
+
 
 ## Projects
 
