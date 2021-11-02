@@ -15,14 +15,26 @@ Requirements to host a static resume are:
 3. Introduction to Jekyll
 
 # Instructions
-
+### 1. Signup or login with your GitHub Account
+  * [Signup](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)
+  * [Login](https://github.com/login)
+### 2. Create a new GitHub respository
+  * 
+  
 
 # Authors and Acknowledgements
 * Raman Bhandari - Third year Computer Science Student - University of Manitoba
-
-This is made possible by the contribution of COMP 3040 course at University of Manitoba
+* 'Cayman' theme by Jekyll. 
+  * Code : theme: jekyll-theme-cayman
+* Group 3 members of COMP 3040 for peer-review
+  * Jason Tran
+  * Antony Anuraj
+  * Shawn L 
+* Course material from COMP 3040 - Technical Communication in Computer Science - Fall 2021, University of Manitoba
 
 # More Resources
+* [Markdown turorial](https://guides.github.com/features/mastering-markdown/) by GitHub
+* ['How to add GIF in Markdown?'](https://newbedev.com/is-there-a-way-to-add-a-gif-to-a-markdown-file)tutorial by Newbedev.
 
 
 # FAQs
