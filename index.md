@@ -26,6 +26,8 @@ Work Experience
 ### Non-Technical
 
 * #### **Student Office Assistant** 
+  * This
+  - that 
 *Extended Education, University of Manitoba* \
 *Designated Area - Student and Instructor Services (SIS)* \
 *Full time: May 2021-August 2021, Part-time: September 2021 - present* 
