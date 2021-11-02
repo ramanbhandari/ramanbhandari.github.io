@@ -31,18 +31,18 @@ Work Experience
 ----------
 ## Non-Technical
 
-#### **Student Office Assistant**
+* #### **Student Office Assistant**
 
 Extended Education, University of Manitoba
 
 Short text containing the type of work done, results obtained,
 lessons learned and other remarks. Can also include lists and
 links:
-* First item
-* Item with [link](http://www.example.com). Links will work both in
+First item
+Item with [link](http://www.example.com). Links will work both in
   the html and pdf versions.
   
-#### **Banquet Server**
+* #### **Banquet Server**
 
 Manitoba Club
 
@@ -50,7 +50,7 @@ Also with a short description.
 
 ## Technical
 
-Research Assistant (USRA)
+* **Research Assistant (USRA)**
 
 Department of Mathematics, University of Manitoba
 
