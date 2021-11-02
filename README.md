@@ -20,7 +20,7 @@ Requirements to host a static resume are:
   * [Login](https://github.com/login)
 ### 2. Create a new GitHub repository
   * Click on the '+' button on the right top corner.\
-    ![alt text](
+    ![alt text](plus.png)
   * Click on 'New Repository' from the list of options.
   * Choose a repository name which haven't been used yet.
     * GitHub won't let the user pick duplicate names.
@@ -28,6 +28,7 @@ Requirements to host a static resume are:
     * *Public* is preferred to host a resume visible by everyone.
   * Select *Create Repository* to finalize.\
   ![alt text](repository.png)
+### 3. 
   
 
 # Authors and Acknowledgements
@@ -52,4 +53,4 @@ Requirements to host a static resume are:
 
 ![Alt Text](Done.gif) 
 ## **References**
-* GIF 'Done.gif' taken from https://tenor.com/search/finished-gifs
+* GIF 'Done.gif' taken from https://tenor.com/view/done-spongebob-rainbow-im-done-finished-gif-16088121
