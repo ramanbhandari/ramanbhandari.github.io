@@ -64,6 +64,7 @@ Worked with C++ to construct working algorithms for problems not solvable by han
 ## Achievements
 * Undergraduate Student Research Award (USRA)
   * Summer 2021
+  * Award value: $7000
 * International Undergraduate Student Scholarship
   * Award value: $1000
 
