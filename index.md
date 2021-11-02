@@ -35,9 +35,9 @@ Work Experience
   * Processing payments and refunds, working with admin aurora
   * Answering email and phone queries 
 
-Contact: Michelle Romuld \
+*Contact: Michelle Romuld \
          Michelle.Romuld@umanitoba.ca \
-         Coordinator, Student Services
+         Coordinator, Student Services*
 
 * #### **Banquet Server** 
 Manitoba Club \
