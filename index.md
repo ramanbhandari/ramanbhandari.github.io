@@ -5,15 +5,10 @@ bhandar1@myumanitoba.ca
 
 Education
 ---------
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
-    *Minor: Awesomeology*
-Experience
+2019-2024 (anticipated graduation)
+:   **BSc, Computer Science Honours - Co-op**; University of Manitoba
+    *Minor: Mathematics*
+Work Experience
 ----------
 **Your Most Recent Work Experience:**
 Short text containing the type of work done, results obtained,
