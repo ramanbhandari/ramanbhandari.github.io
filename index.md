@@ -29,7 +29,7 @@ University of Manitoba
 
 Work Experience
 ----------
-## Non-Technical
+### Non-Technical
 
 * #### **Student Office Assistant**
 
@@ -48,7 +48,7 @@ Manitoba Club
 
 Also with a short description.
 
-## Technical
+### Technical
 
 * **Research Assistant (USRA)**
 
