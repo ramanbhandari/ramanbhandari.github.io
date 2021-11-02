@@ -20,7 +20,7 @@ R3T4P6
 University of Manitoba
 
 
-## **Work Experience**
+# **Work Experience**
 ### Non-Technical
 
 * #### **Student Office Assistant** 
@@ -53,13 +53,13 @@ University of Manitoba
 Professor Kirill Kopotun* \
 Worked with C++ to construct working algorithms for problems not solvable by hand in Mathematics.
 
-## **Volunteer Experience**
+# **Volunteer Experience**
 * University of Manitoba-Welcome Mentor Program
   * September 2020 - April 2021
 * UMSU Volunteer
   * February 2021 - present
 
-## **Achievements**
+# **Achievements**
 * Undergraduate Student Research Award (USRA)
   * Summer 2021
   * Award value: $7000
@@ -67,6 +67,5 @@ Worked with C++ to construct working algorithms for problems not solvable by han
   * Fall 2021
   * Award value: $1000
 
-## **Projects**
-
+# **Projects**
 
