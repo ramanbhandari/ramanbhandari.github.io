@@ -39,7 +39,16 @@ Work Experience
          Coordinator, Student Services*
 
 * #### **Banquet Server** 
-Manitoba Club  Also with a short description.
+*Manitoba Club, Winnipeg* \
+*Part-time: September 2019 - present* 
+##### **Tasks:**
+  1. Maintained customer satisfaction with timely table check-ins to assess food and beverage needs.
+  2. Guided arriving guests to tables, took drink orders and relayed information to bartenders.
+  3. Adapted service based on customer requests and kitchen readiness. 
+
+*Contact: Bevis Lowe \
+         banquets@manitoba.mb.ca \
+         Events and Catering Manager, Manitoba Club*
 
 ### Technical
 
