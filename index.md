@@ -59,6 +59,15 @@ Worked with C++ to construct working algorithms for problems not solvable by han
 * UMSU Volunteer
   * February 2021 - present
 
+# **Strengths**
+* Java
+* C++
+* C
+* SQL
+* Processing
+* HTML
+* CSS
+
 # **Achievements**
 * Undergraduate Student Research Award (USRA)
   * Summer 2021
@@ -68,4 +77,18 @@ Worked with C++ to construct working algorithms for problems not solvable by han
   * Award value: $1000
 
 # **Projects**
+* Portfolio Website
+  * February 2021
+  * Implemented a static website using HTML, CSS and Javascript through online tutorials
+  * [Click here to view](http://home.cc.umanitoba.ca/~bhandar1/)
+
+# **Languages**
+* English
+* Hindi
+* Punjabi
+
+# **Interests**
+* Coding
+* Soccer
+* Cooking
 
