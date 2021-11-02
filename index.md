@@ -2,6 +2,7 @@
 
 ### Contact Information:
 bhandar1@myumanitoba.ca \
+https://www.linkedin.com/in/raman-bhandari \
 +1 204(869)8505
 
 ### Address:
