@@ -29,10 +29,11 @@ Work Experience
 *Extended Education, University of Manitoba* \
 *Designated Area - Student and Instructor Services (SIS)* \
 *Full time: May 2021-August 2021, Part-time: September 2021 - present* 
-#### **Tasks:**
-  1. Flex registrations/applications and International applications
-  2. Processing payments and refunds, working with admin aurora
+##### **Tasks:**
+  1. Flex registrations/applications and International applications 
+  2. Processing payments and refunds, working with admin aurora 
   3. Answering email and phone queries 
+  
 *Contact: Michelle Romuld \
          Michelle.Romuld@umanitoba.ca \
          Coordinator, Student Services*
