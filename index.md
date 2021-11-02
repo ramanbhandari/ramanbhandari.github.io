@@ -40,7 +40,7 @@ Work Experience
          Coordinator, Student Services*
 
 * #### **Banquet Server** 
-Manitoba Club \
+Manitoba Club 
 Also with a short description.
 
 ### Technical
