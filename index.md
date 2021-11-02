@@ -26,10 +26,10 @@ Work Experience
 ### Non-Technical
 
 * #### **Student Office Assistant** 
-Extended Education, University of Manitoba \
-Designated Area - Student and Instructor Services (SIS) \
-Full time: May 2021-August 2021, Part-time: September 2021 - present \
-Tasks:
+*Extended Education, University of Manitoba* \
+*Designated Area - Student and Instructor Services (SIS)* \
+*Full time: May 2021-August 2021, Part-time: September 2021 - present* \
+**Tasks:**
 * Flex registrations/applications and International applications
 * Processing payments and refunds, working with admin aurora
 * Answering email and phone queries 
