@@ -43,8 +43,7 @@ Work Experience
 ##### **Tasks:**
   1. Maintained customer satisfaction with timely table check-ins to assess food and beverage needs.
   2. Guided arriving guests to tables, took drink orders and relayed information to bartenders.
-  3. Adapted service based on customer requests and kitchen readiness. 
-
+  3. Adapted service based on customer requests and kitchen readiness. \
 *Contact: Bevis Lowe \
          banquets@manitoba.mb.ca \
          Events and Catering Manager, Manitoba Club*
