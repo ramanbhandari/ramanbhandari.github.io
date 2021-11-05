@@ -48,7 +48,11 @@ Requirements to host a static resume are:
 
 # FAQs
 1. Why is Markdown better than a word processor?
+- Markdown is better than a word processor because markdown is a lightweight markup language which offer more flexibility than a word processor. It offers easy editing tools with better identations.
 2. Why is my resume not showing up?
+- Resume might not be showing up for following reasons:
+  - Markdown file is not uploaded to home repository.
+  - A bug in the resume markdown file.
 
 
 ![Alt Text](Done.gif) 
